@@ -1,4 +1,16 @@
 # git-learning
 Github learning
 
-the asterisk is a thing that is used for some stuff that I am not aware of because I have no interest in learning about the various purposes of the asterisk
+
+One time the Russian Mafia killed Steven WANG but he came back to life and decided not to cut off his Steven WANG to survive
+//this is funny
+
+Story is goodness
+
+
+by Stu
+
+int main{
+	
+int....
+}
